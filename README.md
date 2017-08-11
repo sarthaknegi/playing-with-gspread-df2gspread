@@ -13,6 +13,6 @@ Read More : gspread : https://github.com/burnash/gspread
 <html>
 <body>
 <h3>Snapshot of the formatted worksheet</h3>
-<img src="/home/sarthak/pic.png">
+<img src="Snapshot.png">
 </body>
 </html>
